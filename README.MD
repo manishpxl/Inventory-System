@@ -41,7 +41,7 @@
 - Multi-threaded
 
 ## CAUTION
-- MySQL Workbench should be installed in port **3306** with username **'root'** and password **'root'**
+- MySQL Workbench should be installed in port **3306** with username **'root'** and password **'12345'**
 - **JDK 1.8** should be installed and available to the system path
 
 ## Project Skeleton
