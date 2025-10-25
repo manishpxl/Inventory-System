@@ -59,4 +59,4 @@ Prototypes:
 
 ![Customers](images/prototypes/Customers.png)
 
-**For any query contact through: [https://github.com/manishkmr49](https://github.com/manishkmr49)**
+**For any query contact through: [https://github.com/manishkmr49](https://github.com/manishpxl)**
